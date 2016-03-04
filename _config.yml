@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.0596133
 color:
   saturation: 0.7663802
   brandStrength: 0.3732545
@@ -21,6 +22,5 @@ color:
     - '#FAE9CF'
     - '#FFFFFF'
   rhythmicContrast: 1
-typography_spectrum: 0.5946983
 layout_spectrum: 0.9414608
 name: Scotoma
