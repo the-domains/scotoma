@@ -13,14 +13,11 @@ collections:
 typography_spectrum: 0.0596133
 color:
   saturation: 0.7663802
-  brandStrength: 0.3732545
+  brandStrength: 0.5998926
   lightness: 0.6213748
   brandColors:
-    - '#020203'
-    - '#6E4C30'
-    - '#C6B39A'
-    - '#FAE9CF'
-    - '#FFFFFF'
+    - '#040404'
+    - '#E0E0E0'
   rhythmicContrast: 1
 layout_spectrum: 0.9414608
 name: Scotoma
