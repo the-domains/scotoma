@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scotoma]]></title>
+        <description><![CDATA[Scotoma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 00:43:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Soundcloud ]]></title>
+            <description><![CDATA[<article><h1>Soundcloud </h1><p>Norwegian-English-Italian group based in Bergen, Norway Debut album out now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/570c38190d8bfe0bda21e1b3c20fdb9f0ac5102b.jpg"></article>]]></description>
+            <link>undefinedsoundcloud/index.html</link>
+            <guid isPermaLink="false">90a6c820-2904-4593-a299-889d7d8d81c2</guid>
+            <pubDate>Fri, 04 Mar 2016 00:43:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
